@@ -63,7 +63,7 @@
               "assets/images/ecommerceProj/ecommerce.jpeg"
           ],
           "ghLink": "https://github.com/monaimJA/eCommerceProject",
-          "demoLink": "https://monaimja.github.io/eCommerceProject/products",
+          "demoLink": "https://monaimja.github.io/eCommerceProject/",
           "Technologies": ["Angular", "fakeapi", "Bootstrap"]
       },
       {
