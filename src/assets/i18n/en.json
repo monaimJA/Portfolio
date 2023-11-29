@@ -62,8 +62,8 @@
             "imgs": [
                 "assets/images/ecommerceProj/ecommerce.jpeg"
             ],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
+            "ghLink": "https://github.com/monaimJA/eCommerceProject",
+          "demoLink": "https://monaimja.github.io/eCommerceProject/products",
             "Technologies": ["Angular", "fakeapi", "Bootstrap"]
         },
         {
@@ -72,24 +72,24 @@
             "imgs": [
                 "assets/images/QrCodeProject/QRCode.jpeg"
             ],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
+            "ghLink": "https://github.com/monaimJA/QRCodeScanner",
+          "demoLink": "https://monaimja.github.io/QRCodeScanner/",
             "Technologies": ["HTML", "CSS", "Javascript"]
         },
         {
             "Title": "Food Mine",
             "Description": "Designed and developed a dynamic food-centric website enriched with essential features such as a user-friendly shopping cart for hassle-free purchases. Incorporated a robust search functionality for easy navigation and quick access to desired food items. Implemented a unique rating system allowing users to express preferences by liking or disliking various types of food, enhancing the personalized browsing experience.",
             "imgs": ["assets/images/mineFood/foodMine.jpeg"],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
+            "ghLink": "https://github.com/monaimJA/mineFood_website",
+          "demoLink": "https://monaimja.github.io/mineFood_website/",
             "Technologies": ["Angular"]
         },
         {
             "Title": "Chat Now Application",
             "Description": "Application to create chat room to broadcast messages to all the users and to send an individual private message to the user.",
             "imgs": ["assets/images/chatNow/chatnow.jpeg"],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "ghLink": "https://github.com/monaimJA/ChatNowApp",
+          "demoLink": "https://github.com/monaimJA/ChatNowApp",
             "Technologies": ["React", "Spring boot", "WebSocket"]
         }
     ],

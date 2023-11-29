@@ -62,8 +62,8 @@
           "imgs": [
               "assets/images/ecommerceProj/ecommerce.jpeg"
           ],
-          "ghLink": "https://github.com/andresjosehr/hands-game",
-          "demoLink": "https://projects.andresjosehr.com/hands-game",
+          "ghLink": "https://github.com/monaimJA/eCommerceProject",
+          "demoLink": "https://monaimja.github.io/eCommerceProject/products",
           "Technologies": ["Angular", "fakeapi", "Bootstrap"]
       },
       {
@@ -72,24 +72,24 @@
           "imgs": [
               "assets/images/QrCodeProject/QRCode.jpeg"
           ],
-          "ghLink": "https://github.com/andresjosehr/hands-game",
-          "demoLink": "https://projects.andresjosehr.com/hands-game",
+          "ghLink": "https://github.com/monaimJA/QRCodeScanner",
+          "demoLink": "https://monaimja.github.io/QRCodeScanner/",
           "Technologies": ["HTML", "CSS", "Javascript"]
       },
       {
           "Title": "Food Mine",
           "Description": "Conçu et développé un site web dynamique axé sur l'alimentation, enrichi de fonctionnalités essentielles telles qu'un panier d'achat convivial pour des achats sans tracas. Intégré une fonctionnalité de recherche robuste pour une navigation facile et un accès rapide aux articles alimentaires désirés. Mis en place un système de notation unique permettant aux utilisateurs d'exprimer leurs préférences en aimant ou en n'aimant pas différents types d'aliments, améliorant ainsi l'expérience de navigation personnalisée.",
           "imgs": ["assets/images/mineFood/foodMine.jpeg"],
-          "ghLink": "https://github.com/andresjosehr/hands-game",
-          "demoLink": "https://projects.andresjosehr.com/hands-game",
+          "ghLink": "https://github.com/monaimJA/mineFood_website",
+          "demoLink": "https://monaimja.github.io/mineFood_website/",
           "Technologies": ["Angular"]
       },
       {
           "Title": "Chat Now Application",
           "Description": "Application permettant de créer des salons de discussion pour diffuser des messages à tous les utilisateurs, ainsi que d'envoyer des messages privés individuels à un utilisateur spécifique.",
           "imgs": ["assets/images/chatNow/chatnow.jpeg"],
-          "ghLink": "https://github.com/andresjosehr/countries-viewer",
-          "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+          "ghLink": "https://github.com/monaimJA/ChatNowApp",
+          "demoLink": "https://github.com/monaimJA/ChatNowApp",
           "Technologies": ["React", "Spring boot", "WebSocket"]
       }
   ],
