@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701259835980,
+  "timestamp": 1701303180428,
   "index": "/Portfolio/index.html",
   "assetGroups": [
     {
@@ -57,7 +57,8 @@
         "/Portfolio/SFMono-Semibold.849266397229adad.woff",
         "/Portfolio/SFMono-SemiboldItalic.0ef5133ede504d56.woff2",
         "/Portfolio/SFMono-SemiboldItalic.33cb8d6968ae9130.woff",
-        "/Portfolio/assets/cv/MonaimENNABBALI.pdf",
+        "/Portfolio/assets/cv/CV-EN.pdf",
+        "/Portfolio/assets/cv/CV.pdf",
         "/Portfolio/assets/fonts/Calibre/Calibre-Light.ttf",
         "/Portfolio/assets/fonts/Calibre/Calibre-Light.woff",
         "/Portfolio/assets/fonts/Calibre/Calibre-Light.woff2",
@@ -167,7 +168,8 @@
     "/Portfolio/SFMono-Semibold.849266397229adad.woff": "999e816498b39e99896d09cb18614e5bb700fa8e",
     "/Portfolio/SFMono-SemiboldItalic.0ef5133ede504d56.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/Portfolio/SFMono-SemiboldItalic.33cb8d6968ae9130.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
-    "/Portfolio/assets/cv/MonaimENNABBALI.pdf": "1dc375d81a9879a627c9ced10292a91c12ce9b5c",
+    "/Portfolio/assets/cv/CV-EN.pdf": "28f2438098e03d53940e0ed43ee077bd97a8f967",
+    "/Portfolio/assets/cv/CV.pdf": "5cd8366f332b741d42a9deca7c76aa20cf0ea044",
     "/Portfolio/assets/fonts/Calibre/Calibre-Light.ttf": "8eccfc3783b04d13dec5887a15c3e00fd28bef7c",
     "/Portfolio/assets/fonts/Calibre/Calibre-Light.woff": "e3fbab74fa86b97c78ad1b1965b327fe5b2a1adb",
     "/Portfolio/assets/fonts/Calibre/Calibre-Light.woff2": "70021b39a260c5f53d2ec5ba30f37163bbe0ef14",
@@ -212,8 +214,8 @@
     "/Portfolio/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/Portfolio/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/Portfolio/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "/Portfolio/assets/i18n/en.json": "12f5e28558f3ba1311d88420a35d17deb242c0c7",
-    "/Portfolio/assets/i18n/fr.json": "734dd4d4dd4ce499f4c1e3926a4ea215423338d0",
+    "/Portfolio/assets/i18n/en.json": "a7e8ed4515309e6fd8e240ef742e5bd11a0fe3b6",
+    "/Portfolio/assets/i18n/fr.json": "726ca62a3be2463ba2b7e809f588838e0a83b716",
     "/Portfolio/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
     "/Portfolio/assets/icons/icon-128x128.png": "8b56c1fc1dbbc7915a34106b4a8933d96fa847e7",
     "/Portfolio/assets/icons/icon-144x144.png": "9cb394daa0e4af62d8feeda4d5c507ca1ebb992d",
