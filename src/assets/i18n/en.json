@@ -47,7 +47,8 @@
             "Description": [
               "Creating an authentication system for the users of the project management application using JSON Web Tokens (JWT).",
               "Developing user interface components for login, registration, and user profile management using Angular.",
-              "Implementing access controls and permissions on the application's features using Spring Security on the backend.",
+              "Development of REST APIs using Spring Boot.",
+              "Design and development of the user interface.",
               "Collaborating with the team using the Scrum methodology."
             ]
         }

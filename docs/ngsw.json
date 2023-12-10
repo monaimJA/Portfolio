@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702199671445,
+  "timestamp": 1702246967026,
   "index": "/Portfolio/index.html",
   "assetGroups": [
     {
@@ -214,8 +214,8 @@
     "/Portfolio/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/Portfolio/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/Portfolio/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "/Portfolio/assets/i18n/en.json": "4a0ba6755ab05f7cf7a6ac2cfbdbfbd4ce04a337",
-    "/Portfolio/assets/i18n/fr.json": "49ba3dde8715a3ba7eddf702ccd852b11ce4b1ac",
+    "/Portfolio/assets/i18n/en.json": "41d0f3c799425aa9ed16f50b503e637265e5eda3",
+    "/Portfolio/assets/i18n/fr.json": "69d271c02720f958e197a2dab53f4fdaa677bbe4",
     "/Portfolio/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
     "/Portfolio/assets/icons/icon-128x128.png": "8b56c1fc1dbbc7915a34106b4a8933d96fa847e7",
     "/Portfolio/assets/icons/icon-144x144.png": "9cb394daa0e4af62d8feeda4d5c507ca1ebb992d",
