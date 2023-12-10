@@ -45,10 +45,10 @@
             "Subject":"The creation of a web application for project management.",
             "Date": "July - September 2022 | 2 months",
             "Description": [
-              "Implementing continuous improvements, working on frontend and backend.",
-              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-              "Automation of processes with data structures.",
-              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+              "Creating an authentication system for the users of the project management application using JSON Web Tokens (JWT).",
+              "Developing user interface components for login, registration, and user profile management using Angular.",
+              "Implementing access controls and permissions on the application's features using Spring Security on the backend.",
+              "Collaborating with the team using the Scrum methodology."
             ]
         }
     ],

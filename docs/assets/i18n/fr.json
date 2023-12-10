@@ -46,9 +46,10 @@
         "Subject":"La création d'une application web pour la gestion des projets",
         "Date": "Juil.2022 – Sept.2022",
         "Description": [
-          "Développement des APIs REST avec Spring Boot.",
-          "Conception et développement de l'interface utilisateur.",
-          "La collaboration avec l’équipe en utilisant la méthologie agile de la méthode scrum."
+          "Création d'un système d'authentification pour les utilisateurs de l'application de gestion de projets en utilisant JSON Web Tokens (JWT).",
+          "Développement des interfaces utilisateur pour la connexion, l'inscription et la gestion des profils utilisateurs avec Angular.",
+          "Mise en place des contrôles d'accès et des autorisations sur les fonctionnalités de l'application en utilisant Spring Security côté backend.",
+          "La collaboration avec l’équipe en utilisant la méthode scrum."
         ]
       }
     ],
