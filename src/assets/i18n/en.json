@@ -1,150 +1,156 @@
 {
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV-EN.pdf",
 
-    "Header.Item1" : "About me",
-    "Header.Item2" : "Experience",
-    "Header.Item3" : "Projects",
-    "Header.Item4" : "Contact",
-    "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV-EN.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": [
+    "I am a skilled and enthusiastic full stack Java developer proficient in Java and Angular.",
+    "I have a strong background in developing robust and scalable web applications. ",
+    "I am an efficient collaborator passionate about creating high-quality applications."
+  ],
+  "Banner.ActionBtn": "Get in touch",
 
-    "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": ["I am a skilled and enthusiastic full stack Java developer proficient in Java and Angular.",
-                            "I have a strong background in developing robust and scalable web applications. ",
-                            "I am an efficient collaborator passionate about creating high-quality applications."],
-    "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "I am an enthusiastic and skilled Full Stack Java developer proficient in both Java and the Angular framework.",
+    "I have gained a solid experience in developing robust and scalable web applications using these technologies.",
+    "I am capable of effectively collaborating with multidisciplinary teams to deliver high-quality software solutions.",
+    "I have a deep understanding of software development principles and best practices,and I am passionate about creating efficient and user-friendly applications.",
+    "I constantly stay updated on the latest technological advancements and I am committed to continuously improving my skills to foster innovation and achieve project goals.",
+    "I possess excellent problem-solving abilities and approach software development with meticulousness. "
+  ],
 
-    "AboutMe.Title": "About me",
-    "AboutMe.Paragraphs": [
-        "I am an enthusiastic and skilled Full Stack Java developer proficient in both Java and the Angular framework.",
-        "I have gained a solid experience in developing robust and scalable web applications using these technologies.",
-        "I am capable of effectively collaborating with multidisciplinary teams to deliver high-quality software solutions.",
-        "I have a deep understanding of software development principles and best practices,and I am passionate about creating efficient and user-friendly applications.",
-        "I constantly stay updated on the latest technological advancements and I am committed to continuously improving my skills to foster innovation and achieve project goals.",
-        "I possess excellent problem-solving abilities and approach software development with meticulousness. "
-    ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Capgemini TS",
+      "Title": "Fullstack developer <Angular,Spring Boot>",
+      "Subject": "Design and development of a tournament management platform within Capgemini.",
+      "Date": "February – April 2024 | 2 months",
+      "Description": [
+        "Active member of a collaborative project involving a team of 5 people.",
+        "Participation in the Formula A1 training program, including best practices such as code quality optimization, unit testing, agility, consulting skills, and Lean management.",
+        "Successfully managed team limitations and matches to ensure efficient tournament organization.",
+        "Streamlined important tournament tasks such as scheduling draws, planning matches, and sending email notifications."
+      ]
+    },
+    {
+      "Tab": "Leyton",
+      "Title": "Fullstack developer <Angular,Spring Boot>",
+      "Subject": "The implementation of a counterpart scoring platform for trading carbon credits.",
+      "Date": "February – August 2023 | 6 months",
+      "Description": [
+        "Development of REST APIs using Spring Boot.",
+        "Design and development of the user interface.",
+        "Integrating our application into the Keycloak server.",
+        "Creating unit tests using JUnit and Mockito.",
+        "Auditing entities using Hibernate Envers.",
+        "Collaborating with the team using the Agile methodology of the Scrum framework."
+      ]
+    },
+    {
+      "Tab": "E-ambition",
+      "Title": "Fullstack developer <Angular,Spring Boot>",
+      "Subject": "The creation of a web application for project management.",
+      "Date": "July - September 2022 | 2 months",
+      "Description": [
+        "Creating an authentication system for the users of the project management application using JSON Web Tokens (JWT).",
+        "Developing user interface components for login, registration, and user profile management using Angular.",
+        "Development of REST APIs using Spring Boot.",
+        "Design and development of the user interface.",
+        "Collaborating with the team using the Scrum methodology."
+      ]
+    }
+  ],
 
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "eCommerce Website",
+      "Description": "eCommerce Website offering easy navigation and efficient product filtering by category. Users can seamlessly add desired products to their shopping cart, customizing quantities with a few simple clicks.",
+      "imgs": ["assets/images/ecommerceProj/ecommerce.jpeg"],
+      "ghLink": "https://github.com/monaimJA/eCommerceProject",
+      "demoLink": "https://monaimja.github.io/eCommerceProject/",
+      "Technologies": ["Angular", "fakeapi", "Bootstrap"]
+    },
+    {
+      "Title": "QR Code Scanner ",
+      "Description": "Code Scanner or Reader in HTML CSS & JavaScript. In this app, users can upload any QR code image and decode/extract the content from it. ",
+      "imgs": ["assets/images/QrCodeProject/QRCode.jpeg"],
+      "ghLink": "https://github.com/monaimJA/QRCodeScanner",
+      "demoLink": "https://monaimja.github.io/QRCodeScanner/",
+      "Technologies": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "Title": "Food Mine",
+      "Description": "Designed and developed a dynamic food-centric website enriched with essential features such as a user-friendly shopping cart for hassle-free purchases. Incorporated a robust search functionality for easy navigation and quick access to desired food items. Implemented a unique rating system allowing users to express preferences by liking or disliking various types of food, enhancing the personalized browsing experience.",
+      "imgs": ["assets/images/mineFood/foodMine.jpeg"],
+      "ghLink": "https://github.com/monaimJA/mineFood_website",
+      "demoLink": "https://monaimja.github.io/mineFood_website/",
+      "Technologies": ["Angular"]
+    },
+    {
+      "Title": "Chat Now Application",
+      "Description": "Application to create chat room to broadcast messages to all the users and to send an individual private message to the user.",
+      "imgs": ["assets/images/chatNow/chatnow.jpeg"],
+      "ghLink": "https://github.com/monaimJA/ChatNowApp",
+      "demoLink": "https://github.com/monaimJA/ChatNowApp",
+      "Technologies": ["React", "Spring boot", "WebSocket"]
+    }
+  ],
 
-    "Experience.Title": "Experience",
-    "Experience.Jobs": [{
-            "Tab": "Leyton",
-            "Title": "Fullstack developer <Angular,Spring Boot>",
-            "Subject":"The implementation of a counterpart scoring platform for trading carbon credits.",
-            "Date": "February – August 2023 | 6 months",
-            "Description": [
-              "Development of REST APIs using Spring Boot.",
-              "Design and development of the user interface.",
-              "Integrating our application into the Keycloak server.",
-              "Creating unit tests using JUnit and Mockito.",
-              "Auditing entities using Hibernate Envers.",
-              "Collaborating with the team using the Agile methodology of the Scrum framework."
-            ]
-        },
-        {
-            "Tab": "E-ambition",
-            "Title": "Fullstack developer <Angular,Spring Boot>",
-            "Subject":"The creation of a web application for project management.",
-            "Date": "July - September 2022 | 2 months",
-            "Description": [
-              "Creating an authentication system for the users of the project management application using JSON Web Tokens (JWT).",
-              "Developing user interface components for login, registration, and user profile management using Angular.",
-              "Development of REST APIs using Spring Boot.",
-              "Design and development of the user interface.",
-              "Collaborating with the team using the Scrum methodology."
-            ]
-        }
-    ],
-
-    "FeatureProjects.Title": "My projects",
-    "FeatureProjects.Label": "Featured Project",
-    "FeatureProjects.Projects": [
-        {
-            "Title": "eCommerce Website",
-            "Description": "eCommerce Website offering easy navigation and efficient product filtering by category. Users can seamlessly add desired products to their shopping cart, customizing quantities with a few simple clicks.",
-            "imgs": [
-                "assets/images/ecommerceProj/ecommerce.jpeg"
-            ],
-            "ghLink": "https://github.com/monaimJA/eCommerceProject",
-          "demoLink": "https://monaimja.github.io/eCommerceProject/",
-            "Technologies": ["Angular", "fakeapi", "Bootstrap"]
-        },
-        {
-            "Title": "QR Code Scanner ",
-            "Description": "Code Scanner or Reader in HTML CSS & JavaScript. In this app, users can upload any QR code image and decode/extract the content from it. ",
-            "imgs": [
-                "assets/images/QrCodeProject/QRCode.jpeg"
-            ],
-            "ghLink": "https://github.com/monaimJA/QRCodeScanner",
-          "demoLink": "https://monaimja.github.io/QRCodeScanner/",
-            "Technologies": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "Title": "Food Mine",
-            "Description": "Designed and developed a dynamic food-centric website enriched with essential features such as a user-friendly shopping cart for hassle-free purchases. Incorporated a robust search functionality for easy navigation and quick access to desired food items. Implemented a unique rating system allowing users to express preferences by liking or disliking various types of food, enhancing the personalized browsing experience.",
-            "imgs": ["assets/images/mineFood/foodMine.jpeg"],
-            "ghLink": "https://github.com/monaimJA/mineFood_website",
-          "demoLink": "https://monaimja.github.io/mineFood_website/",
-            "Technologies": ["Angular"]
-        },
-        {
-            "Title": "Chat Now Application",
-            "Description": "Application to create chat room to broadcast messages to all the users and to send an individual private message to the user.",
-            "imgs": ["assets/images/chatNow/chatnow.jpeg"],
-            "ghLink": "https://github.com/monaimJA/ChatNowApp",
-          "demoLink": "https://github.com/monaimJA/ChatNowApp",
-            "Technologies": ["React", "Spring boot", "WebSocket"]
-        }
-    ],
-
-
-
-    "OtherProjects.Title": "More projects",
-    "OtherProjects.Projects": [{
-            "Title": "Pokemon",
-            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
-        },
-        {
-            "Title": "Coming soon page",
-            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
-        },
-        {
-            "Title": "Four card feature section",
-            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
-        },
-        {
-            "Title": "Social proof section",
-            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-            "ghLink": "https://github.com/andresjosehr/social-proof-section",
-            "demoLink": "https://projects.andresjosehr.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
-        },
-        {
-            "Title": "FAQ accordion card",
-            "Description": "FAQ accordion with logic and animations made in Angular.",
-            "ghLink": "https://github.com/andresjosehr/faq-accordion",
-            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-            "ghLink": "https://github.com/andresjosehr/profile-card-component",
-            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
-        }
-    ],
-    "Contact.Pretitle": "What’s Next",
-    "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
-    "Contact.Btn": "Say Hello"
-
-
+  "OtherProjects.Title": "More projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Pokemon",
+      "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+      "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+    },
+    {
+      "Title": "Coming soon page",
+      "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+      "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+      "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+      "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+    },
+    {
+      "Title": "Four card feature section",
+      "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": ["Angular", "SASS", "CSS GRID"]
+    },
+    {
+      "Title": "Social proof section",
+      "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "Technologies": ["Angular", "CSS GRID", "GIT"]
+    },
+    {
+      "Title": "FAQ accordion card",
+      "Description": "FAQ accordion with logic and animations made in Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+    },
+    {
+      "Title": "Profile card",
+      "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "Technologies": ["Angular", "SASS", "GIT"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+  "Contact.Btn": "Say Hello"
 }
